@@ -1,6 +1,7 @@
 **SetUserFTA - Adobe Acrobat Pro &amp; Adobe Reader**
 
-**<u>UPDATES</u>**:<br>
+
+**UPDATES**:<br>
  
 Please visit the following Link/URL for Updated Adobe Reader & Acrobat Pro FTAs (File Type Associations), Scripts, Examples, etc.
 
@@ -12,7 +13,8 @@ Updated FTAs (File Type Associations), Scripts, Examples and so forth, associate
 **Adobe_Reader_And_Adobe_Acrobat_Pro_File_Type_Associations - SetUserFTA**:<br>
 https://github.com/mrmattipants/Adobe_Reader_And_Adobe_Acrobat_Pro_File_Type_Associations/tree/main/SetUserFTA
 
-**<u>Official Website of the SetUserFTA Developer</u>**:<br>
+
+**Official Website of the SetUserFTA Developer**:<br>
 
 **SetUserFTA: UserChoice Hash defeated – Set File Type Associations per User or Group on Windows 8/10/11 and 2012/2016/2019/2022**:<br> https://kolbi.cz/blog/2017/10/25/setuserfta-userchoice-hash-defeated-set-file-type-associations-per-user/
 
