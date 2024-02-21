@@ -1,7 +1,7 @@
 # SetUserFTA-Adobe
 SetUserFTA - Adobe Acrobat &amp; Adobe Reader
 
-**SetUserFTA.exe Utility**:<br>
+**SetUserFTA.exe** (Developer Website):
 
 SetUserFTA: UserChoice Hash defeated – Set File Type Associations per User or Group on Windows 8/10/11 and 2012/2016/2019/2022: https://kolbi.cz/blog/2017/10/25/setuserfta-userchoice-hash-defeated-set-file-type-associations-per-user/
 
